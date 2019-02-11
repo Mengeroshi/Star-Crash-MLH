@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <windows.h>
 #include <conio.h>
-
+//damn no sirve en linux//
 
 #define ARRIBA 72
 #define IZQUIERDA 75
